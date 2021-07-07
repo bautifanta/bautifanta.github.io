@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 * {
-    background: rgb(39, 39, 39);
+    background: #393939;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -75,7 +75,7 @@
 }
 
 .info h1 {
-    background: rgb(39, 39, 39);
+    background: #393939;
     text-align: center;
     margin-top: 50px;
     color: #ffffff;
@@ -83,7 +83,7 @@
 }
 
 .info .tuxon {
-    background: rgb(39, 39, 39);
+    background: #393939;
     margin-left: auto;
     margin-right: auto;
     margin-top: 200px;
